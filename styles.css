@@ -1,0 +1,31 @@
+body {
+  background-color: #d5e1ef;
+  margin: 0;
+}
+.code {
+  border-radius: 25px;
+}
+.title {
+  color: #252d44;
+  font-family: 'Outfit', sans-serif;
+  font-size: 2.5rem;
+  text-align: center;
+}
+.subtitle {
+  color: #95959e;
+  font-family: 'Outfit', sans-serif;
+  font-size: 1.8rem;
+  text-align: center;
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
+}
+.white {
+  background-color: #ffffff;
+  padding: 1rem;
+  width: 31.25rem;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10rem;
+  margin-bottom: 10rem;
+  border-radius: 25px;
+}
